@@ -26,6 +26,8 @@ Login Admin Account:
 Flashwebte
 12345678
 
+--------------------------------------------------
+
 Ponzi v2018.09 https://swiftdue.flashwebtech.com
 
 Login Admin Account:
