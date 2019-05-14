@@ -1,6 +1,8 @@
 # Ponzi-Scheme-Script-V2
 A Ponzi Scheme Website script free for you Developed by Flash Media Technology Formally FlashWebTech Inc Contact: (+234) 9022165970 , (+234) 8110446469, (+234) 7033036054 ,email: flashmediatech@gmail.com, Flash Media Technology URL: https://flashmediatech.com
 
+
+# HERE YOU CAN GET THE PREMIUM LATEST VERSION AS WELL
 Has ticket and news system
 Ponzi v2019.02 https://ponziv201902.flashwebtech.com
 
