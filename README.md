@@ -3,6 +3,15 @@ A Ponzi Scheme Website script free for you Developed by Flash Media Technology F
 
 
 # HERE YOU CAN GET THE PREMIUM LATEST VERSION AS WELL
+Different ROI base on Duration  Choosed, Multi Language support, Chatting and News System Fully Featured.
+Ponzi v2019.z https://pap.flashwebtech.com
+
+Login Admin Account:
+UserName: Flashwebte
+Password: 12345678
+
+--------------------------------------------------
+
 Has ticket and news system
 Ponzi v2019.02 https://ponziv201902.flashwebtech.com
 
